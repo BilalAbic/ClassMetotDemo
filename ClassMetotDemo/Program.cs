@@ -13,7 +13,7 @@ namespace ClassMetotDemo
                 Soyad = "Demir",
                 Tc = "00000000000",
                 Eposta = "alidemir@gmail.com",
-                Telefon = "+905758569678"
+                Telefon = "+905758669678"
             };
             Musteri musteri2 = new Musteri()
             {
@@ -21,8 +21,8 @@ namespace ClassMetotDemo
                 Ad = "Ateş",
                 Soyad = "Sönmez",
                 Tc = "00000000000",
-                Eposta = "alidemir@gmail.com",
-                Telefon = "+905757485678"
+                Eposta = "atesnmz@gmail.com",
+                Telefon = "+905758485678"
             };
             Musteri musteri3 = new Musteri()
             {
@@ -30,8 +30,8 @@ namespace ClassMetotDemo
                 Ad = "Fatih",
                 Soyad = "Buralı",
                 Tc = "00000000000",
-                Eposta = "alidemir@gmail.com",
-                Telefon = "+9057584034"
+                Eposta = "fatihburali@gmail.com",
+                Telefon = "+90575584034"
             };
             Musteri musteri4 = new Musteri()
             {
